@@ -13,7 +13,7 @@ body {
 .page-container {
 	padding: 54px 14px 15px;
 	margin: 0 auto;
-	width: 837px;
+	width: 855px;
 }
 
 .dashboard {
@@ -141,6 +141,7 @@ p.tweet-text {
 
 .tweet-actions {
 	text-align: right;
+	display: none;
 }
 .tweet-actions ul {
 	list-style-type: none;
