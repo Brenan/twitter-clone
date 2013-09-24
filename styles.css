@@ -145,6 +145,7 @@ p.tweet-text {
 }
 .tweet-actions ul {
 	list-style-type: none;
+
 }
 .tweet-actions li {
 	display: inline-block;
@@ -152,6 +153,9 @@ p.tweet-text {
 	color: #2FC2EF;
 	cursor: pointer;
 	margin-right: 2px;
+}
+.tweet-actions a{
+	color: #2FC2EF;
 }
 
 span.icon {
